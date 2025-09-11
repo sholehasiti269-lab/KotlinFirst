@@ -9,4 +9,3 @@ fun main(args: Array<String>){
     println("stringLietral = " + stringLietral)
     println("charLiteral = " + charLiteral)
     println("boolLiteral = " + boolLiteral)
-}
