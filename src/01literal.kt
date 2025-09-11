@@ -1,4 +1,4 @@
-fun main(args: Array<String>){
+fun main(args: Array<String>) {
     var intLiterl = 5
     var doubleLiteral = .02
     var stringLietral = "hello"
@@ -9,3 +9,4 @@ fun main(args: Array<String>){
     println("stringLietral = " + stringLietral)
     println("charLiteral = " + charLiteral)
     println("boolLiteral = " + boolLiteral)
+}
